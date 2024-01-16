@@ -1,3 +1,6 @@
+
+![channels4_banner](https://github.com/hasancandemirci/hasancandemirci/assets/126083033/3433a61a-3fcd-4096-b7f1-d17efd6b1ae4)
+
 <h1 align="center">Merhaba Yazılım ile Yazılım Dünyasına</h1>
 <h3 align="center">Hoşgeldiniz :)</h3>
 
