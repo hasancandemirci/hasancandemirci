@@ -24,3 +24,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasancandemirci&" alt="hasancandemirci" /></p>
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/hasancandemirci/hasancandemirci/output/snake.svg" alt="Snake animation" />
+
+###
